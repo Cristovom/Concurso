@@ -1,0 +1,55 @@
+{
+  "deck": "Treino adicional — Windows Server e GPO",
+  "cards": [
+    {
+      "front": "O que acontece quando uma GPO é vinculada a uma OU?",
+      "back": "As configurações da política podem ser aplicadas aos usuários e computadores da OU e descendentes, conforme filtros e regras de precedência.",
+      "topic": "GPO"
+    },
+    {
+      "front": "Uma GPO de usuário altera, por padrão, configurações de qual objeto?",
+      "back": "Do usuário que recebe a política, independentemente do computador, salvo condições especiais como loopback.",
+      "topic": "GPO"
+    },
+    {
+      "front": "O que faz o comando gpresult /r no Windows?",
+      "back": "Exibe um resumo das políticas aplicadas ao usuário e/ou ao computador.",
+      "topic": "GPO"
+    },
+    {
+      "front": "Para que serve a ferramenta GPMC?",
+      "back": "Console de Gerenciamento de Política de Grupo (Group Policy Management Console), utilizada para criar, vincular, administrar e analisar GPOs.",
+      "topic": "GPO"
+    },
+    {
+      "front": "Qual a função de uma conta de serviço?",
+      "back": "Permitir que um serviço/aplicativo execute operações com identidade e privilégios controlados.",
+      "topic": "Windows Server"
+    },
+    {
+      "front": "Em um domínio AD, por que a resolução DNS é essencial?",
+      "back": "Clientes localizam controladores de domínio e outros serviços por registros DNS, incluindo SRV.",
+      "topic": "Active Directory"
+    },
+    {
+      "front": "Por que grupos de segurança facilitam administração de permissões?",
+      "back": "Permitem atribuir permissões ao grupo e gerenciar membros centralmente.",
+      "topic": "Active Directory"
+    },
+    {
+      "front": "O que é herança de permissões NTFS?",
+      "back": "Propagação de permissões de pastas pai para objetos filhos, conforme regras e opções de herança.",
+      "topic": "Windows Server"
+    },
+    {
+      "front": "O que significa princípio do menor privilégio no Active Directory?",
+      "back": "Conceder a cada conta/grupo somente os privilégios necessários para suas funções.",
+      "topic": "Active Directory"
+    },
+    {
+      "front": "Qual é a finalidade do comando dcdiag?",
+      "back": "Executar verificações de diagnóstico da integridade de controladores de domínio do Active Directory.",
+      "topic": "Windows Server"
+    }
+  ]
+}
