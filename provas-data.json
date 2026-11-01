@@ -1,0 +1,838 @@
+{
+  "sbc": {
+    "name": "São Bernardo do Campo · 2024",
+    "title": "Analista de Tecnologia da Informação e Comunicações",
+    "code": "025",
+    "date": "07/04/2024",
+    "time": 180,
+    "prova": "vunesp-2024-prefeitura-de-sao-bernardo-do-campo-sp-analista-de-tecnologia-da-informacao-e-comunicacoes-prova.pdf",
+    "gabarito": "vunesp-2024-prefeitura-de-sao-bernardo-do-campo-sp-analista-de-tecnologia-da-informacao-e-comunicacoes-gabarito.pdf",
+    "edital": "prefeitura_de_sao_bernardo_do_campo_sp_2024_edital_n_1-edital.pdf",
+    "provaUrl": "docs/sbc-prova.pdf",
+    "provaSize": 0.73,
+    "editalUrl": "docs/sbc-edital.pdf",
+    "editalSize": 0.89,
+    "gabaritoUrl": "docs/sbc-gabarito.pdf",
+    "gabaritoSize": 0.19,
+    "questions": [
+      {
+        "n": 1,
+        "page": 3,
+        "answer": "D",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 2,
+        "page": 3,
+        "answer": "B",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 3,
+        "page": 3,
+        "answer": "A",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 4,
+        "page": 4,
+        "answer": "E",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 5,
+        "page": 4,
+        "answer": "D",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 6,
+        "page": 4,
+        "answer": "B",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 7,
+        "page": 4,
+        "answer": "C",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 8,
+        "page": 5,
+        "answer": "C",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 9,
+        "page": 5,
+        "answer": "A",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 10,
+        "page": 5,
+        "answer": "E",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 11,
+        "page": 5,
+        "answer": "B",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 12,
+        "page": 5,
+        "answer": "C",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 13,
+        "page": 5,
+        "answer": "D",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 14,
+        "page": 5,
+        "answer": "E",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 15,
+        "page": 6,
+        "answer": "B",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 16,
+        "page": 6,
+        "answer": "A",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 17,
+        "page": 6,
+        "answer": "D",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 18,
+        "page": 6,
+        "answer": "C",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 19,
+        "page": 7,
+        "answer": "A",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 20,
+        "page": 7,
+        "answer": "E",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 21,
+        "page": 8,
+        "answer": "D",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 22,
+        "page": 8,
+        "answer": "D",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 23,
+        "page": 8,
+        "answer": "B",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 24,
+        "page": 8,
+        "answer": "E",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 25,
+        "page": 9,
+        "answer": "C",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 26,
+        "page": 10,
+        "answer": "E",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Algoritmos e pseudocódigo",
+        "domain": "Programação e algoritmos"
+      },
+      {
+        "n": 27,
+        "page": 10,
+        "answer": "C",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Estruturas de dados",
+        "domain": "Programação e algoritmos"
+      },
+      {
+        "n": 28,
+        "page": 10,
+        "answer": "D",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Programação orientada a objetos",
+        "domain": "Programação e algoritmos"
+      },
+      {
+        "n": 29,
+        "page": 10,
+        "answer": "B",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Banco de dados e índices",
+        "domain": "Banco de dados"
+      },
+      {
+        "n": 30,
+        "page": 10,
+        "answer": "C",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Segurança e senhas",
+        "domain": "Segurança da informação"
+      },
+      {
+        "n": 31,
+        "page": 11,
+        "answer": "E",
+        "subject": "Conhecimentos Específicos",
+        "topic": "SAML / autenticação",
+        "domain": "Segurança da informação"
+      },
+      {
+        "n": 32,
+        "page": 11,
+        "answer": "C",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Métodos ágeis / XP",
+        "domain": "Engenharia de software"
+      },
+      {
+        "n": 33,
+        "page": 11,
+        "answer": "A",
+        "subject": "Conhecimentos Específicos",
+        "topic": "SQL / permissões",
+        "domain": "Banco de dados"
+      },
+      {
+        "n": 34,
+        "page": 11,
+        "answer": "B",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Álgebra relacional",
+        "domain": "Banco de dados"
+      },
+      {
+        "n": 35,
+        "page": 11,
+        "answer": "A",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Servidores HTTP / Tomcat",
+        "domain": "Servidores e sistemas"
+      },
+      {
+        "n": 36,
+        "page": 11,
+        "answer": "E",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Java / sobrecarga",
+        "domain": "Programação e algoritmos"
+      },
+      {
+        "n": 37,
+        "page": 12,
+        "answer": "D",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Python / dicionários",
+        "domain": "Programação e algoritmos"
+      },
+      {
+        "n": 38,
+        "page": 12,
+        "answer": "C",
+        "subject": "Conhecimentos Específicos",
+        "topic": "PHP / constantes",
+        "domain": "Programação e algoritmos"
+      },
+      {
+        "n": 39,
+        "page": 12,
+        "answer": "A",
+        "subject": "Conhecimentos Específicos",
+        "topic": "UML",
+        "domain": "Engenharia de software"
+      },
+      {
+        "n": 40,
+        "page": 12,
+        "answer": "B",
+        "subject": "Conhecimentos Específicos",
+        "topic": "XSLT / XML",
+        "domain": "Engenharia de software"
+      },
+      {
+        "n": 41,
+        "page": 12,
+        "answer": "D",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Git",
+        "domain": "Engenharia de software"
+      },
+      {
+        "n": 42,
+        "page": 12,
+        "answer": "A",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Engenharia de software",
+        "domain": "Engenharia de software"
+      },
+      {
+        "n": 43,
+        "page": 12,
+        "answer": "D",
+        "subject": "Conhecimentos Específicos",
+        "topic": "SOLID",
+        "domain": "Engenharia de software"
+      },
+      {
+        "n": 44,
+        "page": 13,
+        "answer": "E",
+        "subject": "Conhecimentos Específicos",
+        "topic": "NAT / redes",
+        "domain": "Redes e protocolos"
+      },
+      {
+        "n": 45,
+        "page": 13,
+        "answer": "B",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Cabeamento estruturado",
+        "domain": "Redes e protocolos"
+      },
+      {
+        "n": 46,
+        "page": 13,
+        "answer": "E",
+        "subject": "Conhecimentos Específicos",
+        "topic": "TLS / HTTPS",
+        "domain": "Segurança da informação"
+      },
+      {
+        "n": 47,
+        "page": 13,
+        "answer": "B",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Windows",
+        "domain": "Servidores e sistemas"
+      },
+      {
+        "n": 48,
+        "page": 13,
+        "answer": "A",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Linux / grep",
+        "domain": "Servidores e sistemas"
+      },
+      {
+        "n": 49,
+        "page": 13,
+        "answer": "D",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Linux / comandos",
+        "domain": "Servidores e sistemas"
+      },
+      {
+        "n": 50,
+        "page": 14,
+        "answer": "C",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Linux / segurança",
+        "domain": "Servidores e sistemas"
+      }
+    ]
+  },
+  "santo": {
+    "name": "Santo André · 2024",
+    "title": "Analista de Tecnologia da Informação — Redes e Data Center",
+    "code": "065",
+    "date": "18/02/2024",
+    "time": 210,
+    "prova": "vunesp-2024-prefeitura-de-santo-andre-sp-analista-de-tecnologia-da-informacao-redes-e-data-center-prova.pdf",
+    "gabarito": "vunesp-2024-prefeitura-de-santo-andre-sp-analista-de-tecnologia-da-informacao-redes-e-data-center-gabarito.pdf",
+    "edital": "prefeitura_de_santo_andre_sp_2023_edital_n_2-edital.pdf",
+    "provaUrl": "docs/santo-prova.pdf",
+    "provaSize": 0.51,
+    "editalUrl": "docs/santo-edital.pdf",
+    "editalSize": 3.49,
+    "gabaritoUrl": "docs/santo-gabarito.pdf",
+    "gabaritoSize": 0.28,
+    "questions": [
+      {
+        "n": 1,
+        "page": 3,
+        "answer": "E",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 2,
+        "page": 3,
+        "answer": "E",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 3,
+        "page": 4,
+        "answer": "C",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 4,
+        "page": 4,
+        "answer": "A",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 5,
+        "page": 4,
+        "answer": "D",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 6,
+        "page": 4,
+        "answer": "B",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 7,
+        "page": 5,
+        "answer": "C",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 8,
+        "page": 5,
+        "answer": "C",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 9,
+        "page": 5,
+        "answer": "D",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 10,
+        "page": 5,
+        "answer": "B",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 11,
+        "page": 5,
+        "answer": "B",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 12,
+        "page": 5,
+        "answer": "D",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 13,
+        "page": 6,
+        "answer": "A",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 14,
+        "page": 6,
+        "answer": "A",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 15,
+        "page": 6,
+        "answer": "E",
+        "subject": "Língua Portuguesa",
+        "topic": "Língua Portuguesa",
+        "domain": "Língua Portuguesa"
+      },
+      {
+        "n": 16,
+        "page": 6,
+        "answer": "D",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 17,
+        "page": 6,
+        "answer": "A",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 18,
+        "page": 6,
+        "answer": "C",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 19,
+        "page": 7,
+        "answer": "B",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 20,
+        "page": 7,
+        "answer": "B",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 21,
+        "page": 7,
+        "answer": "E",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 22,
+        "page": 8,
+        "answer": "A",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 23,
+        "page": 8,
+        "answer": "C",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 24,
+        "page": 8,
+        "answer": "E",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 25,
+        "page": 9,
+        "answer": "D",
+        "subject": "Matemática",
+        "topic": "Matemática",
+        "domain": "Matemática"
+      },
+      {
+        "n": 26,
+        "page": 10,
+        "answer": "E",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 27,
+        "page": 10,
+        "answer": "B",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 28,
+        "page": 10,
+        "answer": "B",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 29,
+        "page": 10,
+        "answer": "C",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 30,
+        "page": 10,
+        "answer": "D",
+        "subject": "Raciocínio Lógico",
+        "topic": "Raciocínio Lógico",
+        "domain": "Raciocínio Lógico"
+      },
+      {
+        "n": 31,
+        "page": 11,
+        "answer": "C",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Banco de dados / transações",
+        "domain": "Banco de dados"
+      },
+      {
+        "n": 32,
+        "page": 11,
+        "answer": "D",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Banco de dados / ACID",
+        "domain": "Banco de dados"
+      },
+      {
+        "n": 33,
+        "page": 11,
+        "answer": "E",
+        "subject": "Conhecimentos Específicos",
+        "topic": "VPN IPsec",
+        "domain": "Redes e protocolos"
+      },
+      {
+        "n": 34,
+        "page": 11,
+        "answer": "D",
+        "subject": "Conhecimentos Específicos",
+        "topic": "SNMP / redes",
+        "domain": "Redes e protocolos"
+      },
+      {
+        "n": 35,
+        "page": 11,
+        "answer": "B",
+        "subject": "Conhecimentos Específicos",
+        "topic": "NFS / Linux",
+        "domain": "Servidores e sistemas"
+      },
+      {
+        "n": 36,
+        "page": 12,
+        "answer": "E",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Shell / Linux",
+        "domain": "Servidores e sistemas"
+      },
+      {
+        "n": 37,
+        "page": 12,
+        "answer": "B",
+        "subject": "Conhecimentos Específicos",
+        "topic": "XSS / segurança",
+        "domain": "Segurança da informação"
+      },
+      {
+        "n": 38,
+        "page": 12,
+        "answer": "A",
+        "subject": "Conhecimentos Específicos",
+        "topic": "AWS / banco de dados",
+        "domain": "Infraestrutura e monitoramento"
+      },
+      {
+        "n": 39,
+        "page": 12,
+        "answer": "C",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Armazenamento",
+        "domain": "Infraestrutura e monitoramento"
+      },
+      {
+        "n": 40,
+        "page": 12,
+        "answer": "A",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Virtualização / data center",
+        "domain": "Infraestrutura e monitoramento"
+      },
+      {
+        "n": 41,
+        "page": 13,
+        "answer": "D",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Replicação",
+        "domain": "Infraestrutura e monitoramento"
+      },
+      {
+        "n": 42,
+        "page": 13,
+        "answer": "D",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Armazenamento / desempenho",
+        "domain": "Infraestrutura e monitoramento"
+      },
+      {
+        "n": 43,
+        "page": 13,
+        "answer": "B",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Criptografia em repouso",
+        "domain": "Segurança da informação"
+      },
+      {
+        "n": 44,
+        "page": 13,
+        "answer": "C",
+        "subject": "Conhecimentos Específicos",
+        "topic": "NAT / IPv4",
+        "domain": "Redes e protocolos"
+      },
+      {
+        "n": 45,
+        "page": 13,
+        "answer": "C",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Port forwarding",
+        "domain": "Redes e protocolos"
+      },
+      {
+        "n": 46,
+        "page": 13,
+        "answer": "A",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Nagios / monitoramento",
+        "domain": "Infraestrutura e monitoramento"
+      },
+      {
+        "n": 47,
+        "page": 14,
+        "answer": "B",
+        "subject": "Conhecimentos Específicos",
+        "topic": "VMware / migração",
+        "domain": "Infraestrutura e monitoramento"
+      },
+      {
+        "n": 48,
+        "page": 14,
+        "answer": "A",
+        "subject": "Conhecimentos Específicos",
+        "topic": "ISO 27002 / segurança",
+        "domain": "Segurança da informação"
+      },
+      {
+        "n": 49,
+        "page": 14,
+        "answer": "E",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Algoritmos / pseudocódigo",
+        "domain": "Programação e algoritmos"
+      },
+      {
+        "n": 50,
+        "page": 14,
+        "answer": "E",
+        "subject": "Conhecimentos Específicos",
+        "topic": "Java / Hibernate",
+        "domain": "Programação e algoritmos"
+      }
+    ]
+  }
+}
