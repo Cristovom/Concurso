@@ -1,0 +1,13 @@
+{
+  "schema": "revisati-weekly-catalog-v1",
+  "packs": [
+    {
+      "id": "semana-01-2026-11",
+      "path": "./packs/semana-01.json",
+      "title": "Semanal 01 — Base e infraestrutura",
+      "edition": "2026-11-07",
+      "questions": 50,
+      "durationMinutes": 180
+    }
+  ]
+}

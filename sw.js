@@ -1,6 +1,6 @@
-// Revisa TI v1.2.0: update in place, precache core, optional offline PDF caching.
-const CACHE='revisati-core-v1.2.0';
-const CORE=['./','./index.html','./provas.html','./provas-data.json','./simulados.html','./version.json','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
+// Revisa TI v1.3.0: update in place, precache core, optional offline PDF caching.
+const CACHE='revisati-core-v1.3.0';
+const CORE=['./','./index.html','./provas.html','./provas-data.json','./simulados.html','./semanais.html','./resgate.html','./packs/catalogo.json','./packs/semana-01.json','./version.json','./manifest.webmanifest','./icon-192.png','./icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',event=>{event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>(k.startsWith('revisati-core-')&&k!==CACHE)||(k.startsWith('revisati-iprejun-'))).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
 self.addEventListener('fetch',event=>{

@@ -1,0 +1,929 @@
+{
+  "schema": "revisati-weekly-v1",
+  "id": "semana-01-2026-11",
+  "title": "Semanal 01 — Base e infraestrutura",
+  "edition": "2026-11-07",
+  "durationMinutes": 180,
+  "description": "50 questões inéditas autorais inspiradas nos formatos de concursos VUNESP. Não são itens oficiais da banca.",
+  "mode": "authorial",
+  "sources": [
+    "IPREJUN 2026 — Anexo II",
+    "São Bernardo do Campo — Prova 025/2024",
+    "Santo André — Prova 065/2024"
+  ],
+  "passages": {
+    "p1": "Em uma autarquia, a implantação de um portal de atendimento reduziu o tempo médio de resposta a solicitações simples. A mudança, porém, não eliminou as filas presenciais. Parte dos usuários não possuía acesso regular à internet; outros tinham dificuldade para localizar os serviços disponíveis. Os gestores perceberam, então, que digitalizar um formulário não era o mesmo que simplificar o atendimento. Organizaram oficinas de orientação, revisaram a linguagem das instruções e mantiveram canais alternativos para situações específicas. Depois de seis meses, o número de solicitações resolvidas no primeiro contato aumentou. A equipe concluiu que a tecnologia contribuíra para o resultado, mas não fora suficiente, sozinha, para produzi-lo.",
+    "p2": "Um sistema de monitoramento pode emitir dezenas de alertas ao longo do dia. Se todos forem tratados como urgentes, o responsável pela infraestrutura tende a perder a capacidade de distinguir uma falha crítica de uma oscilação passageira. Por isso, o monitoramento eficiente depende tanto de instrumentos técnicos quanto de critérios previamente definidos. O objetivo não é silenciar os alertas, mas torná-los úteis para decidir quando e como agir."
+  },
+  "questions": [
+    {
+      "id": "W01-01",
+      "cat": "Português",
+      "topic": "Interpretação de texto",
+      "q": "A principal ideia do texto é a de que a melhoria do atendimento público depende",
+      "options": [
+        "exclusivamente da troca de formulários impressos por digitais.",
+        "de ações tecnológicas combinadas com medidas de acesso e comunicação.",
+        "da extinção de todos os canais presenciais.",
+        "do aumento do número de servidores em todas as unidades.",
+        "da retirada de serviços considerados simples do portal."
+      ],
+      "answer": "B",
+      "why": "O texto reconhece os ganhos da tecnologia, mas ressalta que oficinas, linguagem clara e alternativas de atendimento também foram necessárias.",
+      "passage": "p1"
+    },
+    {
+      "id": "W01-02",
+      "cat": "Português",
+      "topic": "Inferência",
+      "q": "No contexto do texto, a frase “digitalizar um formulário não era o mesmo que simplificar o atendimento” indica que",
+      "options": [
+        "a digitalização obrigatoriamente aumenta o tempo de resposta.",
+        "a simplificação depende apenas da velocidade do servidor.",
+        "a mera transposição do procedimento para o meio digital pode conservar dificuldades.",
+        "formulários eletrônicos não devem ser utilizados pela administração.",
+        "o atendimento presencial é sempre mais eficiente do que o digital."
+      ],
+      "answer": "C",
+      "why": "A ideia distingue mudar o suporte de um procedimento de melhorar efetivamente a experiência e o acesso do usuário.",
+      "passage": "p1"
+    },
+    {
+      "id": "W01-03",
+      "cat": "Português",
+      "topic": "Relações de sentido",
+      "q": "A expressão “A mudança, porém, não eliminou as filas presenciais” estabelece, em relação à oração anterior, uma ideia de",
+      "options": [
+        "oposição a uma expectativa possível.",
+        "consequência inevitável.",
+        "finalidade expressa.",
+        "condição necessária.",
+        "conclusão sem ressalvas."
+      ],
+      "answer": "A",
+      "why": "“Porém” é conjunção adversativa: contrapõe as filas persistentes ao ganho de tempo apresentado antes.",
+      "passage": "p1"
+    },
+    {
+      "id": "W01-04",
+      "cat": "Português",
+      "topic": "Referência textual",
+      "q": "No trecho “outros tinham dificuldade para localizar os serviços disponíveis”, o termo “outros” retoma",
+      "options": [
+        "os gestores que organizaram as oficinas.",
+        "os servidores responsáveis pelo sistema.",
+        "os formulários eletrônicos.",
+        "os usuários que não se incluíam no primeiro grupo mencionado.",
+        "os canais alternativos criados pela autarquia."
+      ],
+      "answer": "D",
+      "why": "O primeiro grupo é o de usuários sem acesso regular à internet; “outros” designa usuários com outra dificuldade.",
+      "passage": "p1"
+    },
+    {
+      "id": "W01-05",
+      "cat": "Português",
+      "topic": "Interpretação de texto",
+      "q": "Segundo o texto, após seis meses houve",
+      "options": [
+        "eliminação integral das solicitações presenciais.",
+        "substituição das oficinas por atendimento automático.",
+        "diminuição do volume total de solicitações, sem outros efeitos.",
+        "comprovação de que o portal foi o único fator da melhoria.",
+        "aumento de soluções já no primeiro contato com o serviço."
+      ],
+      "answer": "E",
+      "why": "O último período informa explicitamente que mais solicitações foram resolvidas no primeiro contato.",
+      "passage": "p1"
+    },
+    {
+      "id": "W01-06",
+      "cat": "Português",
+      "topic": "Interpretação de texto",
+      "q": "O argumento central do segundo texto é que a utilidade do monitoramento depende",
+      "options": [
+        "da ausência de qualquer alerta.",
+        "de critérios para diferenciar ocorrências relevantes.",
+        "da instalação do maior número possível de sensores.",
+        "da substituição de toda análise humana por alarmes.",
+        "do encerramento automático dos incidentes."
+      ],
+      "answer": "B",
+      "why": "O autor contrasta o volume indiscriminado de alertas com critérios para decidir quando agir.",
+      "passage": "p2"
+    },
+    {
+      "id": "W01-07",
+      "cat": "Português",
+      "topic": "Vocabulário em contexto",
+      "q": "No texto, “oscilação passageira” pode ser substituída, sem alteração relevante do sentido, por",
+      "options": [
+        "falha permanente.",
+        "interrupção irreversível.",
+        "variação temporária.",
+        "ameaça comprovadamente intencional.",
+        "desligamento programado e definitivo."
+      ],
+      "answer": "C",
+      "why": "“Oscilação” indica variação; “passageira”, temporária.",
+      "passage": "p2"
+    },
+    {
+      "id": "W01-08",
+      "cat": "Português",
+      "topic": "Conjunções",
+      "q": "Assinale a alternativa em que a relação de finalidade está corretamente indicada.",
+      "options": [
+        "O sistema emitiu alertas, embora a rede estivesse estável.",
+        "A equipe ajustou os limiares, porque havia alertas em excesso.",
+        "O alarme tocou, portanto a falha já estava confirmada.",
+        "A equipe revisou os critérios para que os alertas fossem mais úteis.",
+        "A falha foi registrada, mas o serviço continuou ativo."
+      ],
+      "answer": "D",
+      "why": "“Para que” introduz oração subordinada adverbial final.",
+      "passage": "p2"
+    },
+    {
+      "id": "W01-09",
+      "cat": "Português",
+      "topic": "Concordância verbal",
+      "q": "Assinale a alternativa que atende à concordância verbal da norma-padrão.",
+      "options": [
+        "Havia muitas solicitações pendentes no sistema.",
+        "Fazem dois meses que o portal foi atualizado.",
+        "Existia diversas dificuldades de navegação.",
+        "Ocorreram-se novas falhas no serviço.",
+        "Aconteceu mudanças na equipe responsável."
+      ],
+      "answer": "A",
+      "why": "Haver, no sentido de existir, é impessoal e permanece no singular. As demais apresentam desvios de concordância ou emprego.",
+      "passage": "p1"
+    },
+    {
+      "id": "W01-10",
+      "cat": "Português",
+      "topic": "Crase",
+      "q": "O uso do acento indicativo de crase está correto em:",
+      "options": [
+        "O técnico respondeu à todos os chamados.",
+        "A equipe iniciou à revisar o processo.",
+        "Os gestores chegaram à uma conclusão.",
+        "A atualização foi aplicada à servidores críticos.",
+        "O relatório foi encaminhado à direção da autarquia."
+      ],
+      "answer": "E",
+      "why": "Em “à direção” há preposição a exigida por “encaminhado” e artigo a que antecede “direção”."
+    },
+    {
+      "id": "W01-11",
+      "cat": "Matemática",
+      "topic": "Porcentagem",
+      "q": "Um equipamento custava R$ 1.200,00. Recebeu desconto de 15%. O preço final foi de",
+      "options": [
+        "R$ 1.020,00",
+        "R$ 1.030,00",
+        "R$ 1.050,00",
+        "R$ 1.080,00",
+        "R$ 1.100,00"
+      ],
+      "answer": "A",
+      "why": "15% de 1.200 = 180; 1.200 − 180 = R$ 1.020,00."
+    },
+    {
+      "id": "W01-12",
+      "cat": "Matemática",
+      "topic": "Razão e proporção",
+      "q": "Em uma equipe, a razão entre técnicos e analistas é 3 para 5. Se há 24 profissionais, o número de analistas é",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "18",
+        "20"
+      ],
+      "answer": "C",
+      "why": "O total de partes é 3+5=8. Cada parte vale 24/8=3; analistas = 5×3=15."
+    },
+    {
+      "id": "W01-13",
+      "cat": "Matemática",
+      "topic": "Regra de três",
+      "q": "Quatro servidores processam 600 arquivos em 3 horas, com produtividade igual. Seis servidores, em 2 horas, processarão",
+      "options": [
+        "300",
+        "450",
+        "500",
+        "600",
+        "900"
+      ],
+      "answer": "D",
+      "why": "A taxa é 600/(4×3)=50 arquivos por servidor/hora. Com 6×2 horas-servidor, são 600 arquivos."
+    },
+    {
+      "id": "W01-14",
+      "cat": "Matemática",
+      "topic": "Juros simples",
+      "q": "Um capital de R$ 2.000,00 rende juros simples de 2% ao mês durante 5 meses. O montante é",
+      "options": [
+        "R$ 2.040,00",
+        "R$ 2.100,00",
+        "R$ 2.120,00",
+        "R$ 2.180,00",
+        "R$ 2.200,00"
+      ],
+      "answer": "E",
+      "why": "J = 2.000×0,02×5=200. M=2.000+200=2.200."
+    },
+    {
+      "id": "W01-15",
+      "cat": "Matemática",
+      "topic": "Equação do 1º grau",
+      "q": "A soma de um número com o dobro de seu sucessor é 38. Esse número é",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "answer": "B",
+      "why": "x+2(x+1)=38 ⇒ 3x=36 ⇒ x=12."
+    },
+    {
+      "id": "W01-16",
+      "cat": "Matemática",
+      "topic": "Média aritmética",
+      "q": "As quantidades de chamados em quatro dias foram 12, 18, 16 e 14. A média diária foi",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "answer": "B",
+      "why": "(12+18+16+14)/4=60/4=15."
+    },
+    {
+      "id": "W01-17",
+      "cat": "Matemática",
+      "topic": "Geometria plana",
+      "q": "Uma sala retangular tem 8 m de comprimento e 6 m de largura. Sua área, em metros quadrados, é",
+      "options": [
+        "14",
+        "24",
+        "28",
+        "48",
+        "56"
+      ],
+      "answer": "D",
+      "why": "Área = comprimento × largura = 8×6=48 m²."
+    },
+    {
+      "id": "W01-18",
+      "cat": "Matemática",
+      "topic": "Frações",
+      "q": "De um conjunto de 150 solicitações, 2/5 foram resolvidas pela manhã. Quantas ficaram para os demais períodos?",
+      "options": [
+        "60",
+        "75",
+        "80",
+        "85",
+        "90"
+      ],
+      "answer": "E",
+      "why": "Resolvidas pela manhã: (2/5)×150=60; restantes = 150−60=90."
+    },
+    {
+      "id": "W01-19",
+      "cat": "Matemática",
+      "topic": "Variação percentual",
+      "q": "Uma quantidade passou de 80 para 100. O aumento percentual em relação ao valor inicial foi",
+      "options": [
+        "20%",
+        "22%",
+        "25%",
+        "30%",
+        "40%"
+      ],
+      "answer": "C",
+      "why": "Acréscimo de 20 dividido pelo valor inicial 80 ⇒ 0,25 = 25%."
+    },
+    {
+      "id": "W01-20",
+      "cat": "Matemática",
+      "topic": "MMC e intervalos",
+      "q": "Uma rotina executa a cada 12 minutos, e outra, a cada 18 minutos. Se executaram juntas às 8h, voltarão a coincidir às",
+      "options": [
+        "8h24",
+        "8h30",
+        "8h36",
+        "8h48",
+        "8h54"
+      ],
+      "answer": "C",
+      "why": "MMC(12,18)=36 minutos. 8h + 36 min = 8h36."
+    },
+    {
+      "id": "W01-21",
+      "cat": "Raciocínio Lógico",
+      "topic": "Negação",
+      "q": "A negação lógica de “Todos os servidores estão atualizados” é",
+      "options": [
+        "Nenhum servidor está atualizado.",
+        "Alguns servidores estão atualizados.",
+        "Pelo menos um servidor não está atualizado.",
+        "Todos os servidores não estão atualizados.",
+        "Somente um servidor está atualizado."
+      ],
+      "answer": "C",
+      "why": "¬∀x P(x) equivale a ∃x ¬P(x). Basta um contraexemplo."
+    },
+    {
+      "id": "W01-22",
+      "cat": "Raciocínio Lógico",
+      "topic": "Condicional",
+      "q": "A proposição “Se o acesso é autorizado, então a conta está ativa” é falsa somente quando",
+      "options": [
+        "o acesso não é autorizado e a conta está inativa.",
+        "o acesso é autorizado e a conta está inativa.",
+        "o acesso não é autorizado e a conta está ativa.",
+        "o acesso é autorizado e a conta está ativa.",
+        "as duas afirmações têm o mesmo valor lógico."
+      ],
+      "answer": "B",
+      "why": "Uma implicação p→q é falsa apenas com antecedente verdadeiro e consequente falso."
+    },
+    {
+      "id": "W01-23",
+      "cat": "Raciocínio Lógico",
+      "topic": "Argumentação",
+      "q": "Considere: “Se há falha crítica, o plantão é acionado.” O plantão não foi acionado. Logo,",
+      "options": [
+        "não houve falha crítica.",
+        "a rede estava necessariamente desligada.",
+        "houve falha crítica e ninguém percebeu.",
+        "todo alerta foi falso.",
+        "houve ao menos um chamado comum."
+      ],
+      "answer": "A",
+      "why": "Modus tollens: p→q e ¬q implicam ¬p."
+    },
+    {
+      "id": "W01-24",
+      "cat": "Raciocínio Lógico",
+      "topic": "Sequências",
+      "q": "Na sequência 3, 7, 15, 31, 63, o próximo termo é",
+      "options": [
+        "95",
+        "111",
+        "119",
+        "127",
+        "129"
+      ],
+      "answer": "D",
+      "why": "Cada termo é o anterior multiplicado por 2 e somado a 1: 63×2+1=127."
+    },
+    {
+      "id": "W01-25",
+      "cat": "Raciocínio Lógico",
+      "topic": "Conjuntos",
+      "q": "Em uma equipe de 30 pessoas, 18 conhecem Linux, 16 conhecem Windows Server e 8 conhecem ambos. Quantas conhecem ao menos um dos dois?",
+      "options": [
+        "22",
+        "24",
+        "25",
+        "26",
+        "28"
+      ],
+      "answer": "D",
+      "why": "Pelo princípio da inclusão-exclusão: 18+16−8=26."
+    },
+    {
+      "id": "W01-26",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Modelo OSI",
+      "q": "Em um modelo de referência OSI, a função de encaminhar pacotes entre diferentes redes está associada à camada de",
+      "options": [
+        "enlace.",
+        "rede.",
+        "sessão.",
+        "apresentação.",
+        "aplicação."
+      ],
+      "answer": "B",
+      "why": "A camada 3 (Rede) realiza endereçamento lógico e roteamento.",
+      "distractors": {
+        "A": "Enlace trata do encaminhamento de quadros em uma rede local.",
+        "C": "Sessão coordena sessões de comunicação.",
+        "D": "Apresentação lida com representação/codificação dos dados.",
+        "E": "Aplicação fornece serviços de rede a aplicações."
+      }
+    },
+    {
+      "id": "W01-27",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Subnetting",
+      "q": "Uma sub-rede IPv4 /26 possui, no uso convencional, quantos endereços atribuíveis a hosts?",
+      "options": [
+        "30",
+        "32",
+        "60",
+        "62",
+        "64"
+      ],
+      "answer": "D",
+      "why": "Há 2^(32−26)=64 endereços; normalmente reservam-se rede e broadcast, restando 62.",
+      "distractors": {
+        "A": "30 é quantidade típica de hosts em /27.",
+        "B": "32 é número total de endereços em /27.",
+        "C": "Não decorre da contagem da máscara /26.",
+        "E": "64 é a quantidade total, incluindo rede e broadcast."
+      }
+    },
+    {
+      "id": "W01-28",
+      "cat": "Conhecimentos Específicos",
+      "topic": "VLAN",
+      "q": "Em uma ligação trunk entre switches, a norma IEEE 802.1Q permite",
+      "options": [
+        "atribuir IPs públicos automaticamente.",
+        "criptografar o conteúdo de todo pacote IP.",
+        "identificar VLANs por marcações em quadros Ethernet.",
+        "substituir o protocolo de roteamento.",
+        "impedir todo tráfego de broadcast sem configuração adicional."
+      ],
+      "answer": "C",
+      "why": "802.1Q define marcação de VLAN em quadros, permitindo múltiplas VLANs no enlace.",
+      "distractors": {
+        "A": "Distribuição de IP envolve mecanismos como DHCP.",
+        "B": "802.1Q não fornece criptografia de conteúdo.",
+        "D": "Não substitui roteamento inter-VLAN.",
+        "E": "Broadcast permanece dentro de cada VLAN."
+      }
+    },
+    {
+      "id": "W01-29",
+      "cat": "Conhecimentos Específicos",
+      "topic": "DHCP",
+      "q": "A sequência típica da negociação inicial de um endereço IPv4 por DHCP é",
+      "options": [
+        "Discover, Offer, Request, Acknowledge.",
+        "Request, Discover, Offer, Acknowledge.",
+        "Offer, Discover, Acknowledge, Request.",
+        "Acknowledge, Offer, Discover, Request.",
+        "Discover, Request, Acknowledge, Offer."
+      ],
+      "answer": "A",
+      "why": "A sequência DORA descreve a concessão inicial de endereço.",
+      "distractors": {
+        "B": "A solicitação de endereço não precede a descoberta inicial.",
+        "C": "A oferta depende do primeiro pedido de descoberta.",
+        "D": "O reconhecimento é etapa final.",
+        "E": "O oferecimento precisa anteceder a solicitação formal."
+      }
+    },
+    {
+      "id": "W01-30",
+      "cat": "Conhecimentos Específicos",
+      "topic": "DNS",
+      "q": "Para indicar o servidor responsável por receber e-mails de um domínio, utiliza-se o registro DNS",
+      "options": [
+        "A.",
+        "AAAA.",
+        "CNAME.",
+        "PTR.",
+        "MX."
+      ],
+      "answer": "E",
+      "why": "MX (Mail Exchanger) aponta os servidores receptores de e-mail.",
+      "distractors": {
+        "A": "A associa nome a IPv4.",
+        "B": "AAAA associa nome a IPv6.",
+        "C": "CNAME define alias de nome.",
+        "D": "PTR é usado para mapeamento reverso."
+      }
+    },
+    {
+      "id": "W01-31",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Windows Server / GPO",
+      "q": "Uma Política de Grupo (GPO) em ambiente de domínio Active Directory é usada principalmente para",
+      "options": [
+        "formatar automaticamente todos os discos do domínio.",
+        "centralizar configurações de usuários e computadores.",
+        "substituir a autenticação Kerberos por DNS.",
+        "criar endereços IP válidos independentemente do DHCP.",
+        "dispensar o uso de unidades organizacionais em qualquer cenário."
+      ],
+      "answer": "B",
+      "why": "As GPOs aplicam configurações e restrições a usuários/computadores conforme escopo e processamento.",
+      "distractors": {
+        "A": "Uma GPO não tem essa finalidade e formatação não é comportamento padrão.",
+        "C": "GPO não substitui mecanismos de autenticação.",
+        "D": "Endereçamento IP não é a função principal de GPO.",
+        "E": "OUs podem ser úteis para delegação e vínculo de políticas."
+      }
+    },
+    {
+      "id": "W01-32",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Active Directory",
+      "q": "Um controlador de domínio costuma depender de registros DNS do tipo SRV para",
+      "options": [
+        "criptografar o tráfego físico da porta Ethernet.",
+        "registrar o número de série do equipamento.",
+        "permitir a descoberta de serviços de domínio, como LDAP/Kerberos.",
+        "atribuir o endereço MAC do gateway.",
+        "criar bancos de dados SQL automaticamente."
+      ],
+      "answer": "C",
+      "why": "SRV publica localização de serviços, permitindo localizar controladores e serviços de domínio.",
+      "distractors": {
+        "A": "SRV não cifra tráfego.",
+        "B": "Registro SRV não é inventário de hardware.",
+        "D": "DNS não define MAC do gateway por SRV.",
+        "E": "Não há relação com criação automática de banco SQL."
+      }
+    },
+    {
+      "id": "W01-33",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Windows Server / GPO",
+      "q": "Para aplicar uma configuração de usuário apenas a um setor, uma prática usual no Active Directory é",
+      "options": [
+        "vincular uma GPO à unidade organizacional correspondente, verificando herança e filtros.",
+        "alterar o arquivo hosts de todos os servidores.",
+        "excluir o domínio e criar um novo.",
+        "adicionar uma rota estática em cada estação.",
+        "instalar drivers de impressora no controlador de domínio."
+      ],
+      "answer": "A",
+      "why": "O vínculo da GPO à OU, combinado com herança e filtros, permite definir escopos.",
+      "distractors": {
+        "B": "Hosts afeta resolução local, não políticas de usuário.",
+        "C": "Não é solução de escopo de GPO.",
+        "D": "Rotas tratam tráfego de rede.",
+        "E": "Drivers não substituem políticas de grupo."
+      }
+    },
+    {
+      "id": "W01-34",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Hyper-V",
+      "q": "No Hyper-V, um checkpoint de máquina virtual é utilizado para",
+      "options": [
+        "fornecer automaticamente alta disponibilidade entre datacenters.",
+        "substituir todas as rotinas de backup corporativo.",
+        "reservar um endereço IP público.",
+        "registrar um estado da VM que possa ser utilizado em uma reversão, dentro das limitações do recurso.",
+        "converter uma VM em roteador físico."
+      ],
+      "answer": "D",
+      "why": "Checkpoints auxiliam reversões de estado; não devem ser confundidos com estratégia completa de backup.",
+      "distractors": {
+        "A": "Alta disponibilidade exige recursos adicionais.",
+        "B": "Checkpoint não substitui backup.",
+        "C": "Não atribui IP público.",
+        "E": "Não transforma VM em hardware físico."
+      }
+    },
+    {
+      "id": "W01-35",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Zabbix / Nagios",
+      "q": "Em uma ferramenta de monitoramento, um limiar que dispara alerta quando o uso de CPU ultrapassa 90% por determinado período é um exemplo de",
+      "options": [
+        "resolução de nomes.",
+        "tratamento físico de cabeamento.",
+        "regra de detecção/acionamento de alerta.",
+        "definição de máscara de rede.",
+        "algoritmo de criptografia simétrica."
+      ],
+      "answer": "C",
+      "why": "É uma condição de monitoramento que gera eventos, frequentemente configurada como trigger no Zabbix.",
+      "distractors": {
+        "A": "Resolução de nomes é função do DNS.",
+        "B": "Cabeamento não determina limiar de CPU.",
+        "D": "Máscara define prefixos de rede.",
+        "E": "Criptografia protege dados, não caracteriza esse limiar."
+      }
+    },
+    {
+      "id": "W01-36",
+      "cat": "Conhecimentos Específicos",
+      "topic": "MikroTik / RouterOS",
+      "q": "RouterOS, associado a equipamentos MikroTik, é empregado principalmente para",
+      "options": [
+        "edição de textos e planilhas.",
+        "roteamento, firewall e administração de recursos de rede.",
+        "desenvolvimento nativo de aplicativos móveis.",
+        "normalização de bancos relacionais.",
+        "compilação de sistemas operacionais desktop."
+      ],
+      "answer": "B",
+      "why": "O RouterOS oferece serviços de rede, roteamento, NAT, firewall e outras funções.",
+      "distractors": {
+        "A": "É um sistema voltado a redes.",
+        "C": "Não tem essa finalidade principal.",
+        "D": "Normalização pertence ao projeto de banco de dados.",
+        "E": "Não é sistema de build de OS desktop."
+      }
+    },
+    {
+      "id": "W01-37",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Squid",
+      "q": "Uma instalação típica do Squid como proxy de saída pode ser utilizada para",
+      "options": [
+        "substituir integralmente o DHCP.",
+        "transformar HTTP em protocolo de roteamento.",
+        "recompilar o kernel Linux automaticamente.",
+        "intermediar requisições de clientes e aplicar políticas de acesso.",
+        "criar discos virtuais do Hyper-V."
+      ],
+      "answer": "D",
+      "why": "Squid pode atuar como proxy HTTP e apoiar controles de acesso e cache.",
+      "distractors": {
+        "A": "DHCP distribui configuração IP.",
+        "B": "HTTP não se torna protocolo de roteamento.",
+        "C": "Não é uma função do Squid.",
+        "E": "Criação de discos de VM é independente de Squid."
+      }
+    },
+    {
+      "id": "W01-38",
+      "cat": "Conhecimentos Específicos",
+      "topic": "VPN IPsec",
+      "q": "Em uma VPN IPsec site-to-site, o objetivo principal é",
+      "options": [
+        "permitir comunicação protegida entre redes através de uma infraestrutura intermediária.",
+        "garantir que os dois locais utilizem o mesmo endereço MAC.",
+        "substituir o DNS público por um protocolo de e-mail.",
+        "desabilitar criptografia para reduzir latência.",
+        "converter automaticamente IPv4 em IPv6."
+      ],
+      "answer": "A",
+      "why": "IPsec oferece recursos para proteger o tráfego IP entre endpoints/gateways; no modo site-to-site conecta redes.",
+      "distractors": {
+        "B": "MAC é identificador de enlace local.",
+        "C": "IPsec não é protocolo de e-mail.",
+        "D": "IPsec pode prover criptografia/autenticação.",
+        "E": "Não traduz automaticamente famílias IP."
+      }
+    },
+    {
+      "id": "W01-39",
+      "cat": "Conhecimentos Específicos",
+      "topic": "IDS / IPS",
+      "q": "Uma diferença importante entre IDS e IPS é que, em geral,",
+      "options": [
+        "o IDS bloqueia sempre e o IPS apenas registra.",
+        "ambos executam exclusivamente funções de backup.",
+        "IDS opera somente em computadores sem rede.",
+        "o IPS não analisa tráfego de rede.",
+        "o IDS detecta e sinaliza, enquanto o IPS pode atuar para bloquear tráfego suspeito."
+      ],
+      "answer": "E",
+      "why": "O IPS costuma operar em linha e pode bloquear; o IDS tem foco em detecção/alerta.",
+      "distractors": {
+        "A": "A função foi invertida.",
+        "B": "Não são ferramentas de backup.",
+        "C": "IDS pode analisar tráfego de rede.",
+        "D": "IPS analisa tráfego/regras para prevenção."
+      }
+    },
+    {
+      "id": "W01-40",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Criptografia",
+      "q": "No uso típico de criptografia assimétrica para assinatura digital, a assinatura é gerada com",
+      "options": [
+        "a chave pública do destinatário.",
+        "a chave privada do assinante.",
+        "uma senha de BIOS compartilhada.",
+        "o endereço MAC do assinante.",
+        "uma chave de sessão anônima do roteador."
+      ],
+      "answer": "B",
+      "why": "A chave privada assina e a pública correspondente permite verificar, com as garantias do mecanismo.",
+      "distractors": {
+        "A": "A chave pública do destinatário é usada em outros fluxos de criptografia.",
+        "C": "Senha de BIOS não é chave de assinatura.",
+        "D": "MAC não autentica uma assinatura digital.",
+        "E": "Não é o procedimento de assinatura assimétrica."
+      }
+    },
+    {
+      "id": "W01-41",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Firewall",
+      "q": "Uma política de firewall baseada no princípio do menor privilégio deve",
+      "options": [
+        "liberar todas as portas por padrão.",
+        "permitir tráfego sem qualquer registro.",
+        "autorizar somente o necessário para as funções previstas.",
+        "desabilitar todo monitoramento.",
+        "confiar em qualquer dispositivo da rede interna sem restrição."
+      ],
+      "answer": "C",
+      "why": "Menor privilégio restringe permissões aos acessos efetivamente necessários.",
+      "distractors": {
+        "A": "Ampliaria a superfície de ataque.",
+        "B": "Não expressa controle mínimo necessário.",
+        "D": "Monitoramento e privilégio são distintos.",
+        "E": "Confiança irrestrita contraria o princípio."
+      }
+    },
+    {
+      "id": "W01-42",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Linux / Serviços",
+      "q": "Em distribuições Linux com systemd, o comando usado para consultar o estado de um serviço chamado ssh é",
+      "options": [
+        "systemctl status ssh",
+        "ssh -delete service",
+        "ip address ssh",
+        "chmod status ssh",
+        "mount ssh status"
+      ],
+      "answer": "A",
+      "why": "systemctl status ssh mostra o estado da unidade correspondente, se existir.",
+      "distractors": {
+        "B": "Não é sintaxe válida para consulta de serviço.",
+        "C": "ip lida com rede, não estado de serviço.",
+        "D": "chmod altera permissões.",
+        "E": "mount trata sistemas de arquivos."
+      }
+    },
+    {
+      "id": "W01-43",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Linux / Permissões",
+      "q": "Em permissões tradicionais Unix, a notação 750 para um arquivo representa, respectivamente, para dono, grupo e outros:",
+      "options": [
+        "leitura/escrita; leitura/escrita; nenhuma.",
+        "todos os direitos; todos os direitos; leitura.",
+        "somente leitura; execução; nenhuma.",
+        "leitura/escrita/execução; leitura/execução; nenhuma.",
+        "leitura/execução; leitura/escrita; leitura."
+      ],
+      "answer": "D",
+      "why": "7=rwx; 5=r-x; 0=---.",
+      "distractors": {
+        "A": "6 representaria leitura/escrita, não 7.",
+        "B": "O grupo recebe 5, não 7.",
+        "C": "O dono recebe 7, não 4.",
+        "E": "A sequência de permissões não corresponde aos dígitos."
+      }
+    },
+    {
+      "id": "W01-44",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Protocolos / SSH",
+      "q": "O SSH é comumente usado para",
+      "options": [
+        "sincronizar automaticamente relógios por UDP 123.",
+        "fornecer sessões remotas protegidas e transferência segura em protocolos derivados.",
+        "resolver nomes de domínio em registros MX.",
+        "distribuir endereços via DHCP.",
+        "substituir o endereçamento IP por MAC em redes WAN."
+      ],
+      "answer": "B",
+      "why": "SSH permite acesso remoto criptografado e operações relacionadas, tipicamente sobre TCP 22.",
+      "distractors": {
+        "A": "Sincronização de horário é NTP.",
+        "C": "MX pertence ao DNS.",
+        "D": "Distribuição de endereço é DHCP.",
+        "E": "Não substitui IP em redes WAN."
+      }
+    },
+    {
+      "id": "W01-45",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Banco de Dados / SQL",
+      "q": "Em SQL, uma VIEW pode ser entendida, em seu uso comum, como",
+      "options": [
+        "uma estrutura que define permanentemente o número de CPUs do banco.",
+        "um mecanismo obrigatório de criptografia de disco.",
+        "uma tabela física idêntica a toda tabela base.",
+        "um programa externo que substitui comandos SELECT.",
+        "uma consulta nomeada apresentada como tabela virtual."
+      ],
+      "answer": "E",
+      "why": "Uma view lógica encapsula uma consulta e apresenta resultados como estrutura consultável.",
+      "distractors": {
+        "A": "Views não configuram processadores.",
+        "B": "Não são mecanismo obrigatório de criptografia.",
+        "C": "Views tradicionais não precisam armazenar fisicamente todos os dados.",
+        "D": "Uma view é consultada via SQL."
+      }
+    },
+    {
+      "id": "W01-46",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Banco de Dados / Triggers",
+      "q": "Em um banco relacional, um trigger AFTER UPDATE é normalmente acionado",
+      "options": [
+        "antes de toda operação SELECT.",
+        "somente durante backup físico do banco.",
+        "após uma atualização de dados na tabela ou no evento associado.",
+        "quando o usuário altera o idioma do cliente SQL.",
+        "apenas durante a criação de um índice."
+      ],
+      "answer": "C",
+      "why": "Trigger AFTER UPDATE reage ao evento UPDATE após sua execução, de acordo com semântica do SGBD.",
+      "distractors": {
+        "A": "SELECT é consulta, não UPDATE.",
+        "B": "Backup não é o evento UPDATE.",
+        "D": "Idioma não configura trigger UPDATE.",
+        "E": "Índice não é o evento UPDATE."
+      }
+    },
+    {
+      "id": "W01-47",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Banco de Dados / Transações",
+      "q": "A propriedade ACID que garante que uma transação seja aplicada integralmente ou não seja aplicada é denominada",
+      "options": [
+        "atomicidade.",
+        "consistência.",
+        "isolamento.",
+        "durabilidade.",
+        "serialização."
+      ],
+      "answer": "A",
+      "why": "Atomicidade trata transação como unidade indivisível, com tudo ou nada.",
+      "distractors": {
+        "B": "Consistência diz respeito à preservação de invariantes.",
+        "C": "Isolamento trata interação entre transações concorrentes.",
+        "D": "Durabilidade protege resultados após commit.",
+        "E": "Serialização é critério de execução concorrente, não nome da propriedade."
+      }
+    },
+    {
+      "id": "W01-48",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Banco de Dados / Stored Procedures",
+      "q": "Uma stored procedure é, em linhas gerais,",
+      "options": [
+        "um protocolo de roteamento interno do SGBD.",
+        "uma consulta que obrigatoriamente retorna apenas uma linha.",
+        "um tipo de máscara de rede.",
+        "um conjunto de instruções armazenado e executável no banco de dados.",
+        "um registro DNS para rotinas de backup."
+      ],
+      "answer": "D",
+      "why": "Procedures encapsulam operações/instruções no SGBD, com detalhes que variam por produto.",
+      "distractors": {
+        "A": "Não é protocolo de roteamento.",
+        "B": "Procedures podem ter diversos resultados e efeitos.",
+        "C": "Não é conceito de IP.",
+        "E": "Não é um registro DNS."
+      }
+    },
+    {
+      "id": "W01-49",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Windows / DISM",
+      "q": "A ferramenta DISM, em ambientes Windows, é empregada, entre outras finalidades, para",
+      "options": [
+        "gerenciar exclusivamente roteadores de borda.",
+        "manter imagens do Windows e componentes relacionados.",
+        "criar registros DNS MX na internet pública.",
+        "substituir o sistema de arquivos NTFS por LDAP.",
+        "administrar diretamente bancos PostgreSQL."
+      ],
+      "answer": "B",
+      "why": "DISM (Deployment Image Servicing and Management) atende a manutenção e gerenciamento de imagens do Windows.",
+      "distractors": {
+        "A": "Roteadores não são seu uso principal.",
+        "C": "DNS MX é independente de DISM.",
+        "D": "NTFS e LDAP não são recursos substituíveis.",
+        "E": "Não é ferramenta nativa de PostgreSQL."
+      }
+    },
+    {
+      "id": "W01-50",
+      "cat": "Conhecimentos Específicos",
+      "topic": "Protocolos / RDP",
+      "q": "A porta padrão mais conhecida do serviço RDP em Windows é",
+      "options": [
+        "TCP 21.",
+        "TCP 25.",
+        "TCP 53.",
+        "TCP 80.",
+        "TCP 3389."
+      ],
+      "answer": "E",
+      "why": "RDP utiliza tipicamente a porta 3389, embora possa ser alterada e usar UDP também.",
+      "distractors": {
+        "A": "TCP 21 está associado ao canal de controle FTP.",
+        "B": "TCP 25 costuma servir ao SMTP.",
+        "C": "DNS usa 53.",
+        "D": "HTTP normalmente usa 80."
+      }
+    }
+  ]
+}
